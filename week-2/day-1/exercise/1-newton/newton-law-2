@@ -1,0 +1,6 @@
+CREATE and SAVE "resultan gaya as Newton" without value
+CREATE and SAVE "massa as m" equal "600 kg"
+CREATE and SAVE "percepatan benda as a" equal "2 m/s2"
+CALCULATE "m" times "a"
+INPUT previous computation result to "Newton"
+SHOW the result of "Newton"

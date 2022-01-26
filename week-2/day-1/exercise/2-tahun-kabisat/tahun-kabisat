@@ -1,0 +1,6 @@
+CREATE AND SAVE "tahun" with any value
+INPUT "tahun" into the CONDITION
+IF "tahun" modulus 4 equal 0 and "tahun" modulus 100 not equal to 0
+OR "tahun" modulus 4 equal 0 and "tahun" modulus 100 equal 0
+AND "tahun" modulus 400 equal 0
+SHOW "(tahun) adalah tahun kabisat"

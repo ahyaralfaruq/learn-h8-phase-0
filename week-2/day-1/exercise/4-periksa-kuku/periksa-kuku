@@ -1,0 +1,6 @@
+CREATE AND SAVE "guru" without any value
+CREATE AND SAVE "siswa" equal 40
+WHILE "guru" go around as much "siswa"
+IF "guru" have found "siswa" with long nails
+THEN "guru" will give punishment to "siswa"
+ELSE "guru" will give praise to "siswa"

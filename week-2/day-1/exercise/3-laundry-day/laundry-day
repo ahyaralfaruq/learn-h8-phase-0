@@ -1,0 +1,7 @@
+CREATE AND SAVE "pakaian" equal 20
+INPUT "pakaian" into the LOOP
+WHILE "pakaian" number 1 has inputed to washing machine
+SAVE "pakaian" in order
+do it again until number 20
+after that, IF "pakaian" number 20 has inputed to washing machine
+THEN stop to do it again
